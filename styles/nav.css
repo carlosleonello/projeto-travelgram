@@ -19,6 +19,6 @@ nav ul li:last-child img {
     height: 40px;
 }
 
-nav a {
-
+.frase1 {
+  white-space: nowrap;
 }
